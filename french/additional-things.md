@@ -14,21 +14,19 @@ Je ne pense pas me tromper si je me dis que, si vous lisez ce qui suit, vous ave
 
 **En complément** est une compilation de règles optionnelles, notes, suggestions et autres idées qui, pour une raison ou une autre n'ont pas été incluses dans le livret des règles du Black Hack. Le plus souvent par manque de place, peut-être aussi parce qu'elles sont idiotes - je vous laisse décider. Choisissez ou non d'en inclure dans vos parties. Certaines de ces règles sont apparues sur mon blog ou sur les réseaux sociaux - mais ces media sont, enfin... vous voyez, quoi ?
 
-## Encumbrance
+## Encombrement
 
-The existing rules are designed to be a quick way of modelling weight, plus the difficulty of carrying lots things. If you are looking for more depth/complication use the following modification.
+Les règles de base sont conçues pour modéliser le poids de manière rapide, ainsi que la difficulté de transporter trop d'objets. Si vous cherchez quelque chose de plus poussé / complexe, utilisez les changements qui suivent :
 
-Every item can have multiple keywords from the following list, for each one the item weighs ‘1’ more :
+Chaque élément peut avoir plusieurs mots-clés issus de la liste ci-dessous et chacun rajoute "1" poids supplémentaire :
 
-* **Fragile** – Items that are prone to breaking, or to damage.
-* **Long** – Objects longer than 5ft in any dimension.
-* **Cumbersome** – Things that are shaped in ungainly or awkward ways,
-* **Heavy** – Objects that despite their size require greater effort to move.
-* **Difficult** - Objects that are hard to store or handle, for example hot or dangerous things.
+* **Fragile** - Les objets se brisent ou s'endommagent facilement.
+* **Grand** - Les objets de plus de d'1.5m dans n'importe quelle longueur.
+* **Encombrant** - Les choses qui ont une forme incommode ou inhabituelle.
+* **Lourd** - Les objets qui malgré leurs tailles demandent un effort pour être soulevés.
+* **Difficile** - Les objets difficiles à garder ou manipuler, parce qu'ils sont brûlants ou dangereux, par exemple.
 
-
-*You’ll notice that this modification is going to weigh down characters a lot, not everyone enjoys the logistics of gear management. If you do use this consider adding items to your game that ignore these rules, making the item more desirable. For example Plate & Mail would always be Cumbersome and Heavy in my game - so I would make a Expert Crafted set that isn’t Cumbersome, then a Master Crafted set that’s neither - making it super desirable.*
-
+*Vous noterez que ces changements vont grandement surcharger les personnages, et tout le monde n'aime pas devoir gérer la logistique. Si vous utilisez ceci, estimez la possibilité d'inclure dans votre jeu des objets qui ignorent cette règle, le rendant plus désirable. Par exemple, une armure de plaques et cottes-de-mailles serait "Lourde" et "Encombrante" dans mon jeu, aussi il faudrait l'oeuvre d'un Artisan Experimenté pour qu'elle ne soit pas Encombrante, et celle d'un Maitre Forgeron pour qu'elle n'aie aucun de ces attributs - la rendant super-attirante.*
 
 ## Magic variant
 

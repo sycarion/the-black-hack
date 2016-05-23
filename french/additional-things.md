@@ -42,14 +42,14 @@ Alors qu'il explore des souterrains et qu'à ces profondeurs la lumière est un 
 
 Au début de son tour il doit faire un jet sur la table de **Panique !**, et à la fin de son tour il doit faire un test de **SAG** pour vaincre sa peur et revenir à la normale. Ceci continue jusqu'à ce qu'il réussisse un test de **SAG**.
 
-|   | PANIC!                                                                              |
-|:-:|:------------------------------------------------------------------------------------|
-| 1 | **Gritted Teeth** - Make a free **WIS** test in order to end the Panic.             |
-| 2 | **Rooted** - Cannot move this turn.                                                 |
-| 3 | **Shock** - Cannot perform any actions that would involve the use of your hands.    |
-| 4 | **Fumble** - The *player* must perform everything this turn with their eyes closed. |
-| 5 | **Life before the eyes** - **CON** is reduced by 2.                                 |
-| 6 | **Heart Attack** - Taken **Out of Action**                                          |
+|   | PANIQUE !                                                                                  |
+|:-:|:-------------------------------------------------------------------------------------------|
+| 1 | **Serre les dents** - Peut faire un jet de **SAG** "gratuit" pour mettre fin à la Panique. |
+| 2 | **Stupéfait** - Ne peut pas bouger durant ce tour.                                         |
+| 3 | **Choqué** - Ne peut pas accomplir d'action qui impliquerait l'usage des mains.            |
+| 4 | **Tâtonne** - Le *joueur* doit tout garder les yeux fermés pendant ce tour de jeu.         |
+| 5 | **La vie défile devant les yeux** - **CON** est réduite de 2 points.                       |
+| 6 | **Crise cardiaque** - Est mis **Hors de Combat**                                           |
 
 *I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
 
@@ -89,15 +89,15 @@ If a player fails a roll and a GM suggests it, they may treat the outcome of tha
 
 *Some people scorn failing forward, I find myself using it when I’m looking to engage a story focused player or when i'm feeling generous and the situation is dire - so some mechanical hooks are useful things to have worked up in advance.*
 
-| Cost of success                                                                              |
+|                                       Cost of success                                        |
 |:--------------------------------------------------------------------------------------------:|
-| Roll a d10, this item in the PCs inventory is destroyed/lost.                                |
+|                Roll a d10, this item in the PCs inventory is destroyed/lost.                 |
 | 'Downgrade' the lowest **Consumable dice** the PC has, if its already a d4 the item is gone. |
-| Someone **Nearby** (including the PC) takes 1d6 HP damage.                                   |
-| **Disadvantage** on a future test of the GM's choice.                                        |
-| +2 to the next **Reaction roll** the GM makes.                                               |
-| Rolls of 1-2 when counting coins are obvious counterfeits.                                   |
-| +1 to the next **Out of Action** roll the PC makes.                                          |
+|                  Someone **Nearby** (including the PC) takes 1d6 HP damage.                  |
+|                    **Disadvantage** on a future test of the GM's choice.                     |
+|                        +2 to the next **Reaction roll** the GM makes.                        |
+|                  Rolls of 1-2 when counting coins are obvious counterfeits.                  |
+|                     +1 to the next **Out of Action** roll the PC makes.                      |
 
 
 ## Paralysed
@@ -150,11 +150,11 @@ If the UD is a d4 and fails, it's considered destroyed and should be removed fro
 
 When a creature moves so they are **Close** to a PC who has a long weapon, the defence roll against the creatures first attack is at Advantage.
 
-| Type         | UD  | AP |
+|     Type     | UD  | AP |
 |:------------:|:---:|:--:|
-| Gambeson     | d4  | 1  |
-| Leather      | d6  | 2  |
-| Chain Mail   | d8  | 3  |
+|   Gambeson   | d4  | 1  |
+|   Leather    | d6  | 2  |
+|  Chain Mail  | d8  | 3  |
 | Plate & Mail | d10 | 4  |
 | Small Shield | d4  | 1  |
 | Large Shield | d4  | 2  |

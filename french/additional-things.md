@@ -28,14 +28,13 @@ Chaque élément peut avoir plusieurs mots-clés issus de la liste ci-dessous et
 
 *Vous noterez que ces changements vont grandement surcharger les personnages, et tout le monde n'aime pas devoir gérer la logistique. Si vous utilisez ceci, estimez la possibilité d'inclure dans votre jeu des objets qui ignorent cette règle, le rendant plus désirable. Par exemple, une armure de plaques et cottes-de-mailles serait "Lourde" et "Encombrante" dans mon jeu, aussi il faudrait l'oeuvre d'un Artisan Experimenté pour qu'elle ne soit pas Encombrante, et celle d'un Maitre Forgeron pour qu'elle n'aie aucun de ces attributs - la rendant super-attirante.*
 
-## Magic variant
+## Variante pour la magie
 
-A very simple ‘narrative’ twist can be made that dramatically changes the way spells are obtained and treated.
+Voici une petite entorse "narrative" qui change complètement la manière d'obtenir et d'utiliser les sorts.
 
-Each spell is a unique item. Much like a ‘named’ magical item or relic, only one instance of the spell exists. It can be stolen, they can be forgotten and discovered again, they can be researched and located - but there can never be more that one copy of that spell (in a book) in the game-world. A spell can be memorised from someone else’s book - and cast. The caster testing their **INT** as per normal, to see if they lose the ability to cast one spell of that level.
+Chaque sort est unique. À la manière d'un objet magique connu ou d'une relique, une seule instance du sort existe. Il peut être volé, oublié et redécouvert, on peut les chercher et les situer - mais il ne peut pas y avoir plus d'une copie de ce sort (dans un livre) dans le monde du jeu. Un sort peut être mémorisé à partir du livre d'un autre magicien - et lancé. Le lanceur de sort doit faire un test d'**INT**, comme à l'accoutumée, pour vérifier sa capacité à lancer ce sort à ce niveau.
 
-*These changes have a massive impact on how magic users will advance in power - talk it through with your players before you mess up their fun.*
-
+*Ces changements ont un impact énorme sur l'avancée en puissance des utilisateurs de la magie - discutez de ceci avec vos joueurs avant de gâcher complètement leur plaisir.*
 
 ## Panic and light
 

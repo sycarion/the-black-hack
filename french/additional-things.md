@@ -36,20 +36,11 @@ Chaque sort est unique. À la manière d'un objet magique connu ou d'une relique
 
 *Ces changements ont un impact énorme sur l'avancée en puissance des utilisateurs de la magie - discutez de ceci avec vos joueurs avant de gâcher complètement leur plaisir.*
 
-## Panic and light
+## Panique et lumière
 
-Whilst exploring subterranean places light is incredibly important, if a character ends their turn in a place with absolute pitch darkness they must immediately make a **WIS** test. If they succeed they may continue to act as normal but if they fail, they **Panic!**
+Alors qu'il explore des souterrains et qu'à ces profondeurs la lumière est un élément incroyablement important, si un personnage se retrouve dans le noir le plus total, il doit immédiatement faire un test de **SAG**. S'il réussit il peut continuer à avancer, mais s'il échoue, il **Panique !**
 
-At the start of their turn they must roll on the **Panic!** table, and at the end of their turn they may make a **WIS** test to overcome act normally. This continues until the make a successful **WIS** test.
-
-*I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
-
-## Weaker warriors
-
-Originally Warriors were a little weaker, but received a 'buff' in power - based on feedback given early on in the Kickstarter. To bring them back to where they were, rule that every additional target they attack must be a new target with equal or lower HD than the last.
-
-*This reduces the number of opportunities to use their special ability and forces the damage to be spread out. A target can be attacked twice, but an additional target must be attacked between the attacks - this entirely stops the high level Warriors 'damage dumping' on single targets.*
-
+Au début de son tour il doit faire un jet sur la table de **Panique !**, et à la fin de son tour il doit faire un test de **SAG** pour vaincre sa peur et revenir à la normale. Ceci continue jusqu'à ce qu'il réussisse un test de **SAG**.
 
 |   | PANIC!                                                                              |
 |:-:|:------------------------------------------------------------------------------------|
@@ -60,6 +51,13 @@ Originally Warriors were a little weaker, but received a 'buff' in power - based
 | 5 | **Life before the eyes** - **CON** is reduced by 2.                                 |
 | 6 | **Heart Attack** - Taken **Out of Action**                                          |
 
+*I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
+
+## Weaker warriors
+
+Originally Warriors were a little weaker, but received a 'buff' in power - based on feedback given early on in the Kickstarter. To bring them back to where they were, rule that every additional target they attack must be a new target with equal or lower HD than the last.
+
+*This reduces the number of opportunities to use their special ability and forces the damage to be spread out. A target can be attacked twice, but an additional target must be attacked between the attacks - this entirely stops the high level Warriors 'damage dumping' on single targets.*
 
 ## Blocking
 

@@ -51,13 +51,13 @@ Au début de son tour il doit faire un jet sur la table de **Panique !**, et à 
 | 5 | **La vie défile devant les yeux** - **CON** est réduite de 2 points.                       |
 | 6 | **Crise cardiaque** - Est mis **Hors de Combat**                                           |
 
-*I think the Panic! rules are a worthy inclusion in any dungeon delving scenario - but might not be for everyone's taste, so were cut for space in the main rulebook. Also if you don't like the 'party game' vibe of the Fumble result, consider changing that to something more boring.*
+*Je pense que les règles de Panique ! ont leur place dans n'importe quel scénario d'exploration de donjon - mais peuvent ne pas être du goût de tout le monde, alors je les ai retirées du livret pour gagner de la place. Aussi, si vous n'aimez pas le côté "jeu d'ambiance" du résultat "Tâtonne", libre à vous de le remplacer par quelque chose de plus rasoir.*
 
-## Weaker warriors
+## Guerriers faibles
 
-Originally Warriors were a little weaker, but received a 'buff' in power - based on feedback given early on in the Kickstarter. To bring them back to where they were, rule that every additional target they attack must be a new target with equal or lower HD than the last.
+Les Guerriers d'origine étaient un peu faibles, mais recevaient un "boost" en puissance - suite aux retours reçus pendant le Kickstarter. Pour les remettre à leur niveau, établissons la règle suivante : la prochaine cible attaquée doit avoir un DV inférieur ou égal au précédent.
 
-*This reduces the number of opportunities to use their special ability and forces the damage to be spread out. A target can be attacked twice, but an additional target must be attacked between the attacks - this entirely stops the high level Warriors 'damage dumping' on single targets.*
+*Ceci réduit les possibilité de sur-utilisation des capacités spéciales et force à répartir les dommages. Une cible peut être attaquée deux dois, mais toute cible additionnelle doit être attaquée entre les attaques - ce qui empêche le guerrier de haut niveau de faire du "dégât de masse" sur une cible unique.*
 
 ## Blocking
 

@@ -77,11 +77,11 @@ Pour chaque DV d'une créature, elle transporte d6 pièces. Un voyou de niveau 4
 
 *Aussi, si vous voulez en jeter et que vous avez le temps et les moyens, trouvez autant de d6 que vous pouvez, recouvrez-les de peinture dorée et distribuez-les en guise de trésors - les joueurs adorent ça.*
 
-## Luck
+## Chance
 
-Each character is created with one point of Luck - they can trade this in at any time and get a re-roll on any one die, or create one fact of story fiction that does not invoke direct mechanical benefits. The only way to get more is to be awarded them by the GM - I give them out to my players when they mess up really badly. Karma.
+Chaque personnage reçoit à sa création un point de Chance - ils peuvent l'échanger à tout moment contre une relance de n'importe quel dé, ou imaginer un élément de l'histoire qui n'implique pas un bonus mécanique ou permanent. Le seul moyen d'en récupérer est de se le voir attribuer par le MJ - je les donne aux joueurs quand ils ont vraiment foiré quelque chose. Pour le karma.
 
-*You already know whether you like Luck systems or not, and this one's nothing crazy or innovative.*
+*Vous savez déjà si vous aimez les systèmes de Chance ou pas et celui-ci n'est ni fou-fou ni révolutionnaire.*
 
 ## Failing forward
 

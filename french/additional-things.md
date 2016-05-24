@@ -65,17 +65,17 @@ Une fois par tour, quand un PNJ se déplace vers un endroit **Proche** et qu'à 
 
 *J'aime bien utiliser des miniatures de temps en temps (quand je peux jouer dans le monde réel... quelle plaie !). Aussi ça me plaît de pouvoir autoriser quelques actions tactiques pendant les combats - pour tirer parti du côté "wargame" qui peut être amusant à petites doses.*
 
-## Money
+## Argent
 
-TBH's default is set to a low-money, generic 'coins' approach - allowing GM's to stamp their personality on the campaign. But here's a fun twist - when players pick up money they don't get a set number, rather they get dice (d6).
+Par défaut, LBH a une approche très "faible" concernant l'argent, utilisant les "pièces d'argent" - ça permet au MJ d'imprimer ses envies sur la campagne. Mais voici une variante amusante - quand les joueurs veulent savoir combien ils ont d'argent, ils n'ont pas un montant fixe, ils ont un dé à la place (d6).
 
-They can count the coins by rolling the dice, which takes an action (Max 4 rolls) and add to the total amount to the coins they are carrying.
+Ils peuvent compter leurs pièces via un jet de dés, qui compte comme une action (Maximum 4 jets de dés) et les ajouter au montant total de pièces qu'ils transportent.
 
-For every HD a creature has, it is carrying a d6 of coins. So a level 4 Ruffian would be carrying 4d6
+Pour chaque DV d'une créature, elle transporte d6 pièces. Un voyou de niveau 4 transporte donc 4d6 pièces.
 
-*This a fun distraction but got cut from the main rules for space - I use it all the time. Some players would like to count all their money as they find it; when that’s a handful of coins, say 3d6 worth - that’s fine. But any more than that, make them aware that it will cost them an action on their turn - to do it accurately.*
+*Cette variante a été retirée du livret pour des raisons de place - je l'utilise tout le temps. Des joueurs aiment compter leur argent dès qu'ils le trouvent, quand c'est un paquet de pièces, disons 3d6, c'est pas mal. Mais en plus, attirez leur attention sur le fait que compter précisément cet argent va leur coûter une action dans leur tour.*
 
-*Also if you really want to be flash and have the time/money, get a as many d6 as you can muster, spray paint them gold - then hand those out as treasure - players love it.*
+*Aussi, si vous voulez en jeter et que vous avez le temps et les moyens, trouvez autant de d6 que vous pouvez, recouvrez-les de peinture dorée et distribuez-les en guise de trésors - les joueurs adorent ça.*
 
 ## Luck
 

@@ -59,11 +59,11 @@ Les Guerriers d'origine étaient un peu faibles, mais recevaient un "boost" en p
 
 *Ceci réduit les possibilité de sur-utilisation des capacités spéciales et force à répartir les dommages. Une cible peut être attaquée deux dois, mais toute cible additionnelle doit être attaquée entre les attaques - ce qui empêche le guerrier de haut niveau de faire du "dégât de masse" sur une cible unique.*
 
-## Blocking
+## Bloquer
 
-Once per turn, when an NPC makes a move to somewhere **Nearby**, and at the end of the move they would end up being **Close** to an ally - a character may move and block the path of the NPC. The character must have *not* used its movement this turn. This action stops the NPC engaging their ally, although the character is likely to be receive the attack of the NPC they blocked.
+Une fois par tour, quand un PNJ se déplace vers un endroit **Proche** et qu'à la fin et qu'à la fin du mouvement il se trouve **Au contact** d'un allié, un personnage peut se déplacer pour barrer la route du PNJ. Le personnage ne doit *pas* avoir utilisé son mouvement dans son tour. Cette action empêche le PNJ de déclencher son action sur l'allié, cependant le personnage peut recevoir l'attaque du PNJ à sa place.
 
-*I enjoy using miniatures occasionally (when I can get a face to face group.. Woe is me!) So sometimes it feels nice to allow some tactical actions during combats - to take advantage of that 'War-gaming aspect' which can be fun in light doses.*
+*J'aime bien utiliser des miniatures de temps en temps (quand je peux jouer dans le monde réel... quelle plaie !). Aussi ça me plaît de pouvoir autoriser quelques actions tactiques pendant les combats - pour tirer parti du côté "wargame" qui peut être amusant à petites doses.*
 
 ## Money
 

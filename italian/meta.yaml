@@ -1,0 +1,11 @@
+label: Italiano
+pages:
+    -
+        label: The Black Hack
+        author: Fabio Gemesio
+        version: '1.0'
+    -
+        label: Cose Addizionali ("Additional Things")
+        author: Fabio Gemesio
+        version: '1.0'
+        filename: additional-things.md

@@ -114,9 +114,9 @@ An alternative method of checking for random encounters is to roll a d4 every ti
 
 ## Morale
 
-If the number of opponents engaged in combat with the players drops by 50% they are 'broken' and a Reaction roll should be made to determine their new attitude.
+If the number of opponents engaged in combat with the players drops by 50% they are 'broken' and a **Reaction roll** should be made to determine their new attitude.
 
-If a character can make a successful CHA test the broken opponents will attempt to flee the combat as quickly as possible. If they have a leader fighting amongst them, the CHA test is taken with Disadvantage.
+If a character can make a successful **CHA** test the broken opponents will attempt to flee the combat as quickly as possible. If they have a leader fighting amongst them, the **CHA** test is taken with **Disadvantage**.
 
 *This is a very 'wargamey' feeling rule, which will add an interesting tactical element to combats, if you're so inclined. And remember if the new reaction roll is favourable, yet the NPC's were trying to kill the players a moment before - its no hard stretch to imagine that they are now grovelling for their lives! All of this should be used as a guide, its recommended a GM should exercise their 'narrative common sense'.*
 
@@ -142,14 +142,6 @@ If you feel like the current Armor system is too weak - here's the first of two 
 
 Armor Points (AP) reduce damage in the same way, however they don't run out - so each hit is reduced by the Armor points amount. Every piece of Armor now has a Usage Die (UD)- *see the table opposite*.
 
-Immediately after a fight where armor has been used to reduce damage, its Usage Die must be rolled. If the roll is a 1 or 2 the Usage Die reduces as per normal, and the Armor then has the AP of the armor above it in the table. So for example failing a UD roll for Chain would reduce it to having 2 AP (Leather).
-
-If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however- roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
-
-## Reach weapons
-
-When a creature moves so they are **Close** to a PC who has a long weapon, the defence roll against the creatures first attack is at Advantage.
-
 | Type         | UD  | AP |
 |:------------:|:---:|:--:|
 | Gambeson     | d4  | 1  |
@@ -158,6 +150,15 @@ When a creature moves so they are **Close** to a PC who has a long weapon, the d
 | Plate & Mail | d10 | 4  |
 | Small Shield | d4  | 1  |
 | Large Shield | d4  | 2  |
+
+Immediately after a fight where armor has been used to reduce damage, its Usage Die must be rolled. If the roll is a 1 or 2 the Usage Die reduces as per normal, and the Armor then has the AP of the armor above it in the table. So for example failing a UD roll for Chain would reduce it to having 2 AP (Leather).
+
+If the UD is a d4 and fails, it's considered destroyed and should be removed from a players inventory. Armor can be repaired however - roll its current Usage Die and multiply the amount by 10, this is the cost to upgrade the Usage Die to the next die up in the chain.
+
+## Reach weapons
+
+When a creature moves so they are **Close** to a PC who has a long weapon, the defence roll against the creatures first attack is at Advantage.
+
 
 ## More armor
 
@@ -189,7 +190,7 @@ So even if you have 20 in a stat there's always a legitimate chance of failure.
 
 ***Armor, how does that work?***
 
-You use you armor to soak damage, when armor has soaked its maximum damage you start losing HP. Only when you rest for an hour do you recover your **Amor Points**. So, for example Plate and Mail is a form of 8 temporary HP.
+You use you armor to soak damage, when armor has soaked its maximum damage you start losing HP. Only when you rest for an hour do you recover your **Armor Points**. So, for example Plate and Mail is a form of 8 temporary HP.
 
 ***How many new spells can be added to the spellbook on a level up?***
 

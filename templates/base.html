@@ -61,7 +61,17 @@ a.headerlink:hover {
     #conversion-des-jets-de-sauvegarde + p + table + table,
 /* spanish */
     #convirtiendo-tiradas-de-salvacion + p + table,
-    #convirtiendo-tiradas-de-salvacion + p + table + table
+    #convirtiendo-tiradas-de-salvacion + p + table + table,
+/* japanese */
+    #sebunobian-huan + p + table,
+    #sebunobian-huan + p + table + table,
+/* italian */
+    #convertire-i-tiri-salvezza + p + table,
+    #convertire-i-tiri-salvezza + p + table + table,
+/* portuguese */
+    #convertendo-jogadas-de-protecao + p + table,
+    #convertendo-jogadas-de-protecao + p + table + table
+
 {
     display: table;
 }
@@ -92,6 +102,10 @@ table tr {
 }
 table tr:nth-child(2n) {
   background-color: #f8f8f8;
+}
+/* Specific japanese style, for the bestiary */
+#mi-yi-zhou-wen ~ table {
+    word-break: normal;
 }
 th em {
     font-family: Alegreya, serif;

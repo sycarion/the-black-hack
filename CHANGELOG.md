@@ -1,10 +1,38 @@
 # Changelog
 
-## master (unreleased)
+## 2.3.1 (2016-10-10)
+
+* Added a "language count" on the homepage (#43).
+* Build a raw, but readable PDF for every language (#21, #46).
+* Contributing docs rewritten and enhanced, added a PR template (#47).
+* Small changes to the Portuguese (Brazilian) version, upgraded to v1.1 (#48).
+
+## 2.3.0 (2016-09-16)
+
+* Fix the Italian "Cockatrice" translation (#40).
+* Portuguese (Brazilian) translation of *The Black Hack* and *Additional Things* by Fernando Guedes (#41).
+* Making sure that "English" will always be at the first place in the list (#42).
+
+## 2.2.0 (2016-09-02)
+
+* Italian translation of *The Black Hack* and *Additional Things* by Fabio Gemesio (#35).
+* Updated Japanese translation, fixing typos and errors (#36).
+* Little cleanup in `meta.yml` - french and italian (#38).
+* Started a small checklist on how to contribute (#37).
+* Fixed word-wrap issue with Japanese bestiary table (#39).
+
+## 2.1.0 (2016-08-13)
+
+* tiny typo fix in english "additional things".
+* Japanese translation of The Black Hack added - thanks to Toshiya Nakamura (#29).
+* New slugification library to handle Japanese - or other non-latin-based languages - (#31).
+
+## 2.0.0 (2016-07-23)
 
 * typo fix in the french text ("exemple" instead of "example").
 * Allow to build extra pages ; the `meta.yaml` file must now provide a list of pages to be built (#27 ; was a requirement for #24).
 * Additional Things (english) added (#24).
+* Additional Things (french) added (#25).
 
 ## 1.1.0 (2016-05-14)
 
